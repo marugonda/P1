@@ -3,3 +3,11 @@ P1
 
 my practice repo-p1
 practice session for Rebase, Undo-Murali
+. topics to be reviewed
+. Reset
+  --hard
+  --soft
+  --mixed
+.Reflog
+.Revert
+.Rebase
